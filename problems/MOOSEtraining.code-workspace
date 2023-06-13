@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../include/kernels"
+		},
+		{
+			"path": "../src/kernels"
+		},
+		{
+			"path": "../test/tests/kernels/darcy_pressure"
+		},
+		{
+			"path": "../include/materials"
+		},
+		{
+			"path": "../test/tests/materials/packed_column"
+		},
+		{
+			"path": "../include/auxkernels"
+		},
+		{
+			"path": "../src/auxkernels"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../test/tests/auxkernels/darcy_velocity"
+		}
+	]
+}
